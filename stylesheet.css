@@ -198,17 +198,29 @@
     top: 7px;
     box-shadow: none;
   }
-  
-  footer lesson-icon {
-    width: 125px;
+  .coloor{
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: lightgray;
+    text-align: match-parent;
   }
-  
+
   footer p {
-    color: #b3aeb5;
+    color: white;
     font-size: 12px;
   }
   
   footer {
-    padding-top: 30px;
-    padding-bottom: 20px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+  }
+
+  .rfooter{
+    float: left;
+    width: 31%;
+    color: #000000;
+  }
+  .f{
+    color: black;
+    font-size: 12px;
   }
